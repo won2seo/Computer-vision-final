@@ -2,7 +2,7 @@
 
 참고 코드 출처 : https://github.com/liorsidi/violence-detection-deep-learning-cnnlstm
 
-사용 데이터셋 : A Dataset for Automatic Violence Detection in Videos(약 350개의 폭력/비폭력 비디오)
+사용 데이터셋 : A Dataset for Automatic Violence Detection in Videos(약 350개의 폭력/비폭력 비디오) & 유튜브
 
 데이터셋 주소 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos
 
