@@ -7,3 +7,5 @@
 데이터셋 주소 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos
 
 인용 : Bianculli M, Falcionelli N, Sernani P, Tomassini S, Contardo P, Lombardi M, Dragoni AF. A dataset for automatic violence detection in videos. Data Brief. 2020 Nov 26;33:106587. doi: 10.1016/j.dib.2020.106587. PMID: 33318975; PMCID: PMC7725718.
+
+Python Version : 3.9
